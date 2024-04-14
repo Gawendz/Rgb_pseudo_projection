@@ -1,1 +1,1 @@
-Pseudorzut z góry w RGB  pobrany z jednej klatki'bag z repozyttorum:''Outdoor scene with D435i pre-production sample (Depth from Stereo with IMU)
+Top pseudoshot in RGB taken from one frame'bag from the repository:''Outdoor scene with D435i pre-production sample (Depth from Stereo with IMU)
